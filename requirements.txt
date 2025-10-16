@@ -7,3 +7,5 @@ scipy<1.16
 pillow
 setuptools==72.1.0
 wheel==0.45.1
+ydata-profiling
+category-encoders
