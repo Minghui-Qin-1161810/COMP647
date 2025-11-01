@@ -4,8 +4,7 @@ matplotlib==3.10.0
 scikit-learn
 seaborn
 scipy<1.16
-pillow
-setuptools==72.1.0
-wheel==0.45.1
+shap
 ydata-profiling
 category-encoders
+pillow
